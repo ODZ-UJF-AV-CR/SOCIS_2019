@@ -1,2 +1,3 @@
 # SOCIS_2019
-SOCIS Idea List
+Project description for ESA Summer of Code in Space 2019.
+#
